@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   =>  Template Name    : SEO Master - SEO Agency Website Template
 
   =>  Template Link    : https://htmlcodex.com/seo-agency-website-template
@@ -8,4 +9,16 @@
 
   =>  Author Website   : https://htmlcodex.com
 
+=======
+  =>  Template Name    : SEO Master - SEO Agency Website Template
+
+  =>  Template Link    : https://htmlcodex.com/seo-agency-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
+
+>>>>>>> f8e4857f0830001611056f127064dcdfad66fe5b
   =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
